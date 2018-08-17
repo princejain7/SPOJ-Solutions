@@ -1,2 +1,2 @@
 # SPOJ-Solutions
-*In C++ 
+In C++ 
